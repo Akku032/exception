@@ -1,0 +1,10 @@
+a1='Rahul'
+a2='akanksha'
+a3='avi'
+print(a1)
+try:
+  f='32'+43
+except:
+  print('operation not possible')
+print(a2)
+print(a3)
